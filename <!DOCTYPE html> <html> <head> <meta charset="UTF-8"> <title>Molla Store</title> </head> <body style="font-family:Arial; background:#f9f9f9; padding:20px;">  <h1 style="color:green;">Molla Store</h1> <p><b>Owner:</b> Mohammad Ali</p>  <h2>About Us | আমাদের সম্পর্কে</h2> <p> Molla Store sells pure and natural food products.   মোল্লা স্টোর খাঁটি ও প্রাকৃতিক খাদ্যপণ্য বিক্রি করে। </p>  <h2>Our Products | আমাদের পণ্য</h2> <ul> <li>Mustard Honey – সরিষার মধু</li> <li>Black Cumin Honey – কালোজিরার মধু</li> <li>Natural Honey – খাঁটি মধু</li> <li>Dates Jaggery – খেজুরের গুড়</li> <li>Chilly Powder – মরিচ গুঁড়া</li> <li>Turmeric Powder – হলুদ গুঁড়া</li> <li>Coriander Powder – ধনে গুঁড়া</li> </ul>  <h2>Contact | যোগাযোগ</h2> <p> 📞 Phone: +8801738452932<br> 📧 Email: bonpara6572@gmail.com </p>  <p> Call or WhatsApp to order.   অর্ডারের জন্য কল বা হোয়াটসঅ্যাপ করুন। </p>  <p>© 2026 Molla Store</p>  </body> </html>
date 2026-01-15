@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Molla Store</title>
+</head>
+<body style="font-family:Arial; background:#f9f9f9; padding:20px;">
+
+<h1 style="color:green;">Molla Store</h1>
+<p><b>Owner:</b> Mohammad Ali</p>
+
+<h2>About Us | আমাদের সম্পর্কে</h2>
+<p>
+Molla Store sells pure and natural food products.  
+মোল্লা স্টোর খাঁটি ও প্রাকৃতিক খাদ্যপণ্য বিক্রি করে।
+</p>
+
+<h2>Our Products | আমাদের পণ্য</h2>
+<ul>
+<li>Mustard Honey – সরিষার মধু</li>
+<li>Black Cumin Honey – কালোজিরার মধু</li>
+<li>Natural Honey – খাঁটি মধু</li>
+<li>Dates Jaggery – খেজুরের গুড়</li>
+<li>Chilly Powder – মরিচ গুঁড়া</li>
+<li>Turmeric Powder – হলুদ গুঁড়া</li>
+<li>Coriander Powder – ধনে গুঁড়া</li>
+</ul>
+
+<h2>Contact | যোগাযোগ</h2>
+<p>
+📞 Phone: +8801738452932<br>
+📧 Email: bonpara6572@gmail.com
+</p>
+
+<p>
+Call or WhatsApp to order.  
+অর্ডারের জন্য কল বা হোয়াটসঅ্যাপ করুন।
+</p>
+
+<p>© 2026 Molla Store</p>
+
+</body>
+</html>
